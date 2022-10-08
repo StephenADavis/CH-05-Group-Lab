@@ -117,6 +117,25 @@ a:link {
   text-align: center;
 }
 
+.tel-link {
+  background-color: #7BAFD4;
+  padding: 2%;
+  width: 80%;
+  margin: 0% auto;
+}
+
+.tel-link a {
+  color: #f6eee4;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.map {
+  border: 5px solid #7BAFD4;
+  width: 95%;
+  height: 50%;
+}
+
 /* Style rules for footer content */
 footer {
   text-align: center;
