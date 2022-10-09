@@ -74,6 +74,10 @@ nav li a {
   text-decoration: none;
 }
 
+li:first-child {
+  color:red;
+}
+
 /* Style rules for main content */
 main {
   padding: 2%;
